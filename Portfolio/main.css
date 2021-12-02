@@ -1,0 +1,22 @@
+.row-1 {
+    position: center;
+    text-align: center;
+    text-shadow: ghostwhite;
+    
+}
+#intro {
+    background-image:url(https://th.bing.com/th/id/OIP.wC_iXjmDLD5L4yns07bS3QHaFj?w=206&h=180&c=7&r=0&o=5&dpr=1.75&pid=1.7);
+    height: 100vh; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: auto;
+}
+   /* Height for devices larger than 576px */
+      @media (min-width: 992px) {
+        #intro {
+          margin-top: -58.59px;
+        }
+      }
+
+
+
